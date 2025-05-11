@@ -17,7 +17,8 @@ venv/
 # ───────── Archivos generados ─────────
 # Las imágenes o PDF que exportas se regeneran; suelen pesar mucho y puedes reconstruirlas con tus scripts.
 
-/report/figures/
+/reports/figures/
+/reports/html
 
 # ───────── IDEs y OS ─────────
 # Cada IDE (VS Code, PyCharm…) o sistema (macOS, Windows) deja ficheros de configuración o cache locales. No aportan al proyecto.
